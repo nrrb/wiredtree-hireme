@@ -1,3 +1,9 @@
+an image:
+
+![Source image](https://raw.github.com/tothebeat/wiredtree-hireme/master/wiredtree.png)
+
+becomes:
+
 ![Action Shot with a photobombing cat](https://raw.github.com/tothebeat/wiredtree-hireme/master/action_shot_with_cat.jpg)
 
 Background
@@ -46,3 +52,12 @@ I think this gets lost anyway in the bad cropping done by photo labs.
 I haven't come up with a system for reassembling the prints besides treating it like a 
 fun little puzzle. With 48 prints used in the example, it took me 10 minutes to 
 assemble while referring to the original images on my monitor.
+
+
+### copyrights
+Some mumbojumbo should go here saying that the [WiredTree] [1] logo used in the example picture 
+retains the copyright of the original owner, that sort of thing and so on. I used it here
+because I want them to hire me for a [Junior Python Developer job] [2] they have open. 
+
+  [1]: http://www.wiredtree.com/  "WiredTree"
+  [2]: http://chicago.craigslist.org/chc/sof/3717165739.html "Junior Python Developer job"
