@@ -2,7 +2,7 @@ an image:
 
 ![Source image](https://raw.github.com/tothebeat/wiredtree-hireme/master/wiredtree.png)
 
-becomes:
+becomes a 72 inch wide and 16 inch tall poster:
 
 ![Action Shot with a photobombing cat](https://raw.github.com/tothebeat/wiredtree-hireme/master/action_shot_with_cat.jpg)
 
