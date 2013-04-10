@@ -1,3 +1,5 @@
+![Action Shot with a photobombing cat](https://raw.github.com/tothebeat/wiredtree-hireme/master/action_shot_with_cat.jpg)
+
 Background
 ==========
 
