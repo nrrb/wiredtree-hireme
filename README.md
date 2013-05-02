@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+I got hired!
+============
+
+
+
 an image:
 
 ![Source image](https://raw.github.com/tothebeat/wiredtree-hireme/master/wiredtree.png)
 
 becomes a 72 inch wide and 16 inch tall poster:
-=======
-I got hired!
-------------
->>>>>>> I got hired!
 
 ![Action Shot with a photobombing cat](https://raw.github.com/tothebeat/wiredtree-hireme/master/action_shot_with_cat.jpg)
 
